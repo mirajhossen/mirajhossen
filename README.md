@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishrafil2233" alt="ishrafil2233" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirajhossen" alt="mirajhossen" /></a>
 </div>
 
 
