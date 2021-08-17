@@ -64,6 +64,21 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
+## 👾 Stats
+
+<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirajhossen&show_icons=true&locale=en&layout=compact" alt="mirajhossen" />
+</p>    
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mirajhossen&show_icons=true&locale=en" alt="mirajhossen" /></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishrafil2233" alt="ishrafil2233" /></a>
+</div>
+
+
+
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/miraj-hossen-b3987a208/)
