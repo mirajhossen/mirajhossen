@@ -1,6 +1,6 @@
 # Hi ! 🥖
 
-My name is Miraj Hossen. I am a fullstack developer living in Bangladesh. 🥐
+<h2>My name is Miraj Hossen. I am a fullstack developer living in Bangladesh. </h2> 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
