@@ -64,7 +64,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
-## 👾 Stats
+## ![image](https://user-images.githubusercontent.com/80351443/129723065-9e9e5d50-2b90-4018-98b7-32373ec4f7f9.png) Stats
 
 <div align="center">
 <p>
