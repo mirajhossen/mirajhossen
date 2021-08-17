@@ -1,8 +1,9 @@
-# Bonjour ! 🥖
+# Hi ! 🥖
 
 My name is Miraj Hossen. I am a fullstack developer living in Bangladesh. 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+## 💻 Followers
  <a href="https://github.com/mirajhossen" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mirajhossen?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
