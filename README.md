@@ -81,7 +81,7 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="250" />](https://www.linkedin.com/in/miraj-hossen-b3987a208/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="160" />](https://www.linkedin.com/in/miraj-hossen-b3987a208/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
