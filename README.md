@@ -3,7 +3,12 @@
 My name is Miraj Hossen. I am a fullstack developer living in Bangladesh. 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
+ <a href="https://github.com/mirajhossen" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mirajhossen?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br>
+  <a href="https://github.com/mirajhossen" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mirajhossen&label=Views&color=green&style=flat-square" alt="views on github" />
+  </a>
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
