@@ -1,6 +1,6 @@
 # Hi ! 🥖
 
-<h2>My name is <i>Miraj Hossen</i>. I am a fullstack developer living in Bangladesh. </h2> 🥐
+<h2>My name is <i>Miraj Hossen</i>. I am a fullstack Mern developer living in Bangladesh. </h2> 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
