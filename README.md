@@ -1,5 +1,5 @@
 # Hi, I'm Miraj Hossen 👋  
-🚀 **Frontend Developer | MERN Stack Enthusiast**
+🚀 **Full Stack Developer | MERN Stack Enthusiast**
 
 💻 Passionate about building scalable web applications and interactive UIs.  
 🌱 Currently working with **React, Vite, Node.js, Express, MongoDB**.  
