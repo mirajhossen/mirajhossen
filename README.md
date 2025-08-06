@@ -18,7 +18,7 @@
 ## 📌 Featured Projects
 
 ### 🏡 [Wanderlust]-  Travel Platform(https://wanderlust-full-stack-project-8m7b.onrender.com/listings)  
-📂 [GitHub Repo](link-to-repo)  
+📂 [GitHub Repo](https://github.com/mirajhossen/WanderLust-Full-Stack-Project)  
 A full-stack travel booking platform built with **Node.js, Express, MongoDB, EJS, Cloudinary**.  
 
 
