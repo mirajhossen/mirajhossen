@@ -17,25 +17,26 @@
 
 ## 📌 Featured Projects
 
+### 🏡 [Wanderlust - Travel Platform](https://wanderlust-full-stack-project-8m7b.onrender.com/listings)  
+📂 [GitHub Repo](link-to-repo)  
+A full-stack travel booking platform built with **Node.js, Express, MongoDB, EJS, Cloudinary**.  
+
+
+
+
 ### 🌦 [Weather App](https://weather-app-with-react-7zbv.onrender.com)  
 📂 [GitHub Repo](https://github.com/mirajhossen/Weather-App---with-React)  
 A responsive weather application built with **React + Vite**, fetching live weather data from an API.  
-![Weather App Screenshot](link-to-screenshot)
+
 
 ---
 
 ### 🎮 [Simon Game](https://github.com/mirajhossen/Simon-Game-With-Dom)  
 A classic **Simon Game** built using HTML, CSS, JavaScript (DOM Manipulation).  
-![Simon Game Screenshot](link-to-screenshot)
+
 
 ---
 
-### 🏡 [Wanderlust - Travel Platform]  
-A full-stack travel booking platform built with **Node.js, Express, MongoDB, EJS, Cloudinary**.  
-*(Add live link when deployed)*  
-📂 [GitHub Repo](link-to-repo)  
-
----
 
 ## 📊 GitHub Stats
 ![Miraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirajhossen&show_icons=true&theme=tokyonight)  
