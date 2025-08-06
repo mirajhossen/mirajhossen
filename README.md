@@ -24,7 +24,7 @@ A full-stack travel booking platform built with **Node.js, Express, MongoDB, EJS
 
 
 
-### 🌦 [Weather App](https://weather-app-with-react-7zbv.onrender.com)  
+### 🌦 [Weather App]-Travel platform(https://weather-app-with-react-7zbv.onrender.com)  
 📂 [GitHub Repo](https://github.com/mirajhossen/Weather-App---with-React)  
 A responsive weather application built with **React + Vite**, fetching live weather data from an API.  
 
